@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Gremcoin
+Comment=Gremcoin P2P Cryptocurrency
+Comment[fr]=Gremcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Gremcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/gremcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/gremcoin;
+Categories=Office;

@@ -1,0 +1,2 @@
+debian/bin/gremcoind usr/bin
+src/gremcoind usr/lib/gremcoin
